@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'zilingWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD16FB5D63794F649978F78C7744ABA0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A28B21F1B0454021B2FB9138328E6E06 }}
           package: .
